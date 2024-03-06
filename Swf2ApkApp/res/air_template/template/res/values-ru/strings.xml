@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Adobe AIR</string>
+    <string name="flash_browser_plugin">Подключаемый модуль Flash</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_continue">Продолжить</string>
+    <string name="button_yes">Да</string>
+    <string name="button_no">Нет</string>
+    <string name="app_name">{{AppTitle}}</string>
+    <string name="IDA_APP_WAITING_DEBUGGER_TITLE"><u>Adobe AIR: ожидание подключения</u></string>
+    <string name="IDA_APP_UNABLE_LISTEN_ERROR"><u>Adobe AIR: прослушивание порта</u></string>
+    <string name="IDA_APP_WAITING_DEBUGGER_WARNING"><u>Приложение AIR ожидает подключения отладчика. Это может занять до %d с.</u></string>
+    <string name="IDA_APP_DEBUGGER_TIMEOUT_INFO">Не удается подключиться к отладчику.</string>
+    <string name="app_version">APP_VERSION</string>
+    <string name="button_install">Продолжить</string>
+    <string name="button_exit">Выход</string>
+    <string name="file_save_as">Сохранить как:</string>
+    <string name="file_download">Загрузить</string>
+    <string name="file_upload">Отправить</string>
+    <string name="audio_files">Аудиофайлы</string>
+    <string name="image_files">Файлы изображений</string>
+    <string name="video_files">Видеофайлы</string>
+    <string name="button_ok">OK</string>
+    <string name="empty_file_list">Файлы не обнаружены.</string>
+    <string name="title_adobe_air"><b>Adobe AIR</b></string>
+    <string name="text_runtime_required">"Для этой программы требуется Adobe AIR.
+
+"</string>
+    <string name="text_install_runtime">Для продолжения установите Adobe AIR на этом устройстве.</string>
+    <string name="text_runtime_on_external_storage">Для продолжения установите Adobe AIR на этом устройстве либо закройте приложение и вставьте карту памяти SD с Adobe AIR, после чего запустите приложение еще раз.</string>
+    <string name="text_gamepreview_loading">Загрузка...</string>
+    <string name="text_gamepreview_loading_error">Не удалось загрузить игру.</string>
+    <string name="text_install_gamepreview_app">Установить</string>
+    <string name="text_air_missing_header">Требуется Adobe AIR</string>
+    <string name="text_air_missing_text">Для предварительного просмотра игр необходимо установить Adobe AIR.</string>
+    <string name="button_install_air_from_playstore">Установить из магазина Play Store.</string>
+    <string name="text_dont_show_again">Не показывать снова.</string>
+    <string name="IDA_CURL_SSL_SECURITY_WARNING">Предупреждение системы безопасности</string>
+    <string name="IDA_CURL_INTERFACE_THISSESS">Доверять в этом сеансе</string>
+    <string name="IDA_CURL_INTERFACE_NOSESS">Отмена</string>
+    <string name="IDA_CURL_INTERFACE_OK">OK</string>
+    <string name="IDA_CURL_INTERFACE_UNVERSER_2">Сервер, к которому подключается приложение, не проверен.</string>
+    <string name="IDA_CURL_INTERFACE_ALLSESS">Всегда доверять</string>
+    <string name="IDA_CURL_INTERFACE_SERVER"><b>Сервер:</b></string>
+    <string name="IDA_CURL_INTERFACE_TRUSTSER">Доверять этому серверу и установить соединение?</string>
+    <string name="IDA_CURL_INTERFACE_CNAME_MSG">Имя сервера (%1$s) не соответствует имени в сертификате (%2$s). Доверять этому серверу и продолжить?</string>
+    <string name="IDA_CURL_INTERFACE_VIEW_CERT"><u>Просмотр сертификата</u></string>
+    <string name="IDA_CURL_INTERFACE_CERTIFICATE_DETAILS_TITLE"><u>Данные сертификата</u></string>
+    <string name="IDA_CERTIFICATE_DETAILS"><b>Сертификат:</b>"
+ 
+ "<u><b>Получатель:</b></u>"
+ Общее имя:
+ %1$s
+ 
+ Организация:
+ %2$s
+ 
+ Организационное подразделение:
+ %3$s
+ 
+ "<u><b>Кем выдан:</b></u>"
+ Общее имя:
+ %4$s
+ 
+ Организация:
+ %5$s
+ 
+ Организационное подразделение:
+ %6$s
+ 
+ "<u><b>Действительность:</b></u>"
+ Дата выдачи:
+ %7$s
+ 
+ Дата окончания действия:
+ %8$s "</string>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Adobe AIR</string>
+    <string name="flash_browser_plugin">Flash plugin-program</string>
+    <string name="button_cancel">Avbryt</string>
+    <string name="button_continue">Fortsätt</string>
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nej</string>
+    <string name="app_name">{{AppTitle}}</string>
+    <string name="IDA_APP_WAITING_DEBUGGER_TITLE"><u>Adobe AIR: Väntar på anslutning</u></string>
+    <string name="IDA_APP_UNABLE_LISTEN_ERROR"><u>Adobe AIR: Lyssnar om det finns en port</u></string>
+    <string name="IDA_APP_WAITING_DEBUGGER_WARNING"><u>AIR-programmet väntar på att en anslutning sker med felsökningsprogrammet. Detta kan ta upp till %d sekunder.</u></string>
+    <string name="IDA_APP_DEBUGGER_TIMEOUT_INFO">Det går inte att ansluta till felsökningsprogrammet.</string>
+    <string name="app_version">APP_VERSION</string>
+    <string name="button_install">Fortsätt</string>
+    <string name="button_exit">Avsluta</string>
+    <string name="file_save_as">Spara som:</string>
+    <string name="file_download">Hämta</string>
+    <string name="file_upload">Överför</string>
+    <string name="audio_files">Ljudfiler</string>
+    <string name="image_files">Bildfiler</string>
+    <string name="video_files">Videofiler</string>
+    <string name="button_ok">OK</string>
+    <string name="empty_file_list">Inga filer hittades.</string>
+    <string name="title_adobe_air"><b>Adobe AIR</b></string>
+    <string name="text_runtime_required">"För det här programmet krävs Adobe AIR.
+
+"</string>
+    <string name="text_install_runtime">Installera Adobe AIR på den här enheten om du vill fortsätta.</string>
+    <string name="text_runtime_on_external_storage">Om du vill fortsätta ska du antingen installera Adobe AIR på den här enheten eller stänga programmet och sätta in SD-kortet med Adobe AIR innan du startar om.</string>
+    <string name="text_gamepreview_loading">Läser in...</string>
+    <string name="text_gamepreview_loading_error">Det gick inte att läsa in spelet.</string>
+    <string name="text_install_gamepreview_app">Installera nu</string>
+    <string name="text_air_missing_header">Adobe AIR krävs</string>
+    <string name="text_air_missing_text">Du måste installera Adobe AIR för att spelförhandsvisningen ska fungera.</string>
+    <string name="button_install_air_from_playstore">Installera från Play Store.</string>
+    <string name="text_dont_show_again">Visa inte detta igen.</string>
+    <string name="IDA_CURL_SSL_SECURITY_WARNING">Skyddsvarning</string>
+    <string name="IDA_CURL_INTERFACE_THISSESS">Lita på för sessionen</string>
+    <string name="IDA_CURL_INTERFACE_NOSESS">Avbryt</string>
+    <string name="IDA_CURL_INTERFACE_OK">OK</string>
+    <string name="IDA_CURL_INTERFACE_UNVERSER_2">Den server som programmet ansluter till har inte verifierats.</string>
+    <string name="IDA_CURL_INTERFACE_ALLSESS">Lita alltid på</string>
+    <string name="IDA_CURL_INTERFACE_SERVER"><b>Server:</b></string>
+    <string name="IDA_CURL_INTERFACE_TRUSTSER">Vill du lita på den här servern och ansluta?</string>
+    <string name="IDA_CURL_INTERFACE_CNAME_MSG">Namnet på servern (%1$s) stämmer inte överens med namnet på certifikatet (%2$s). Vill du lita på servern och fortsätta?</string>
+    <string name="IDA_CURL_INTERFACE_VIEW_CERT"><u>Visa certifikat</u></string>
+    <string name="IDA_CURL_INTERFACE_CERTIFICATE_DETAILS_TITLE"><u>Certifikatinformation</u></string>
+    <string name="IDA_CERTIFICATE_DETAILS"><b>Certifikat:</b>"
+ 
+ "<u><b>Utfärdat till:</b></u>"
+ Eget namn:
+ %1$s
+ 
+ Organisation:
+ %2$s
+ 
+ Organisationsenhet:
+ %3$s
+ 
+ "<u><b>Utfärdat av:</b></u>"
+ Eget namn:
+ %4$s
+ 
+ Organisation:
+ %5$s
+ 
+ Organisationsenhet:
+ %6$s
+ 
+ "<u><b>Giltighet:</b></u>"
+ Utfärdat den:
+ %7$s
+ 
+ Utgångsdatum:
+ %8$s "</string>
+</resources>

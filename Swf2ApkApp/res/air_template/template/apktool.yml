@@ -1,0 +1,23 @@
+version: 2.9.3
+apkFileName: {{ProjectName}}.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 14
+  targetSdkVersion: 27
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: {{VersionCode}}
+  versionName: {{VersionName}}
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- swf
+- png
+- gif

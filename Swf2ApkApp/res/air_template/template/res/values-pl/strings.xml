@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Adobe AIR</string>
+    <string name="flash_browser_plugin">Wtyczka Flash</string>
+    <string name="button_cancel">Anuluj</string>
+    <string name="button_continue">Kontynuuj</string>
+    <string name="button_yes">Tak</string>
+    <string name="button_no">Nie</string>
+    <string name="app_name">{{AppTitle}}</string>
+    <string name="IDA_APP_WAITING_DEBUGGER_TITLE"><u>Adobe AIR: oczekiwanie na połączenie</u></string>
+    <string name="IDA_APP_UNABLE_LISTEN_ERROR"><u>Adobe AIR: nasłuch na porcie</u></string>
+    <string name="IDA_APP_WAITING_DEBUGGER_WARNING"><u>Aplikacja AIR oczekuje na ustanowienie połączenia przez debugger. Może to potrwać do %d s.</u></string>
+    <string name="IDA_APP_DEBUGGER_TIMEOUT_INFO">Nie można nawiązać połączenia z debuggerem.</string>
+    <string name="app_version">APP_VERSION</string>
+    <string name="button_install">Kontynuuj</string>
+    <string name="button_exit">Zakończ</string>
+    <string name="file_save_as">Zapisz jako:</string>
+    <string name="file_download">Pobieranie</string>
+    <string name="file_upload">Wysyłanie</string>
+    <string name="audio_files">Pliki audio</string>
+    <string name="image_files">Pliki obrazów</string>
+    <string name="video_files">Pliki wideo</string>
+    <string name="button_ok">OK</string>
+    <string name="empty_file_list">Nie znaleziono żadnych plików.</string>
+    <string name="title_adobe_air"><b>Adobe AIR</b></string>
+    <string name="text_runtime_required">"Ta aplikacja wymaga środowiska Adobe AIR.
+
+"</string>
+    <string name="text_install_runtime">Aby kontynuować, zainstaluj środowisko AIR na tym urządzeniu.</string>
+    <string name="text_runtime_on_external_storage">Aby kontynuować, albo zainstaluj środowisko Adobe AIR na tym urządzeniu, albo zamknij tę aplikację i przed ponownym uruchomieniem podłącz kartę SD zawierającą środowisko Adobe AIR.</string>
+    <string name="text_gamepreview_loading">Wczytywanie...</string>
+    <string name="text_gamepreview_loading_error">Nie można wczytać gry.</string>
+    <string name="text_install_gamepreview_app">Zainstaluj teraz</string>
+    <string name="text_air_missing_header">Wymagana aplikacja Adobe AIR</string>
+    <string name="text_air_missing_text">Do korzystania z podglądu gry wymagane jest zainstalowanie aplikacji Adobe AIR.</string>
+    <string name="button_install_air_from_playstore">Zainstaluj z Play Store.</string>
+    <string name="text_dont_show_again">Nie pokazuj ponownie tego komunikatu.</string>
+    <string name="IDA_CURL_SSL_SECURITY_WARNING">Ostrzeżenie dotyczące bezpieczeństwa</string>
+    <string name="IDA_CURL_INTERFACE_THISSESS">Zaufaj sesji</string>
+    <string name="IDA_CURL_INTERFACE_NOSESS">Anuluj</string>
+    <string name="IDA_CURL_INTERFACE_OK">OK</string>
+    <string name="IDA_CURL_INTERFACE_UNVERSER_2">Serwer, z którym aplikacja nawiązuje połączenie, jest niezweryfikowany.</string>
+    <string name="IDA_CURL_INTERFACE_ALLSESS">Ufaj zawsze</string>
+    <string name="IDA_CURL_INTERFACE_SERVER"><b>Serwer:</b></string>
+    <string name="IDA_CURL_INTERFACE_TRUSTSER">Czy chcesz ufać temu serwerowi i nawiązać połączenie?</string>
+    <string name="IDA_CURL_INTERFACE_CNAME_MSG">Nazwa serwera (%1$s) jest inna niż nazwa podana w certyfikacje (%2$s). Czy zaufać temu serwerowi i kontynuować?</string>
+    <string name="IDA_CURL_INTERFACE_VIEW_CERT"><u>Wyświetl certyfikat</u></string>
+    <string name="IDA_CURL_INTERFACE_CERTIFICATE_DETAILS_TITLE"><u>Szczegóły certyfikatu</u></string>
+    <string name="IDA_CERTIFICATE_DETAILS"><b>Certyfikat:</b>"
+ 
+ "<u><b>Wystawiony dla:</b></u>"
+ Nazwa ogólna:
+ %1$s
+ 
+ Organizacja:
+ %2$s
+ 
+ Jednostka organizacyjna:
+ %3$s
+ 
+ "<u><b>Wystawiony przez:</b></u>"
+ Nazwa ogólna:
+ %4$s
+ 
+ Organizacja:
+ %5$s
+ 
+ Jednostka organizacyjna:
+ %6$s
+ 
+ "<u><b>Ważność:</b></u>"
+ Data wystawienia:
+ %7$s
+ 
+ Termin ważności:
+ %8$s "</string>
+</resources>

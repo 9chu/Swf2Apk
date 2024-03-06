@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swf2ApkApp", "Swf2ApkApp\Swf2ApkApp.csproj", "{DB0FDC15-0753-4F01-BAB8-381DE03B0EE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swf2Apk", "Swf2Apk\Swf2Apk.csproj", "{71A962CB-F482-4620-9C0E-CF24F22B53D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0FDC15-0753-4F01-BAB8-381DE03B0EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0FDC15-0753-4F01-BAB8-381DE03B0EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0FDC15-0753-4F01-BAB8-381DE03B0EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0FDC15-0753-4F01-BAB8-381DE03B0EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A962CB-F482-4620-9C0E-CF24F22B53D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A962CB-F482-4620-9C0E-CF24F22B53D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A962CB-F482-4620-9C0E-CF24F22B53D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A962CB-F482-4620-9C0E-CF24F22B53D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9A799CA-D06A-472C-96CE-E889C273A0F6}
+	EndGlobalSection
+EndGlobal
